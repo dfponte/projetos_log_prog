@@ -31,7 +31,7 @@ int main()
         case '*':printf("Multiplicacao\n");
         printf("Valor do produto %d \n",valor1*valor2);
         break;
-        default:printf("Valor inexitente");
+        default:printf("Oper inexitente");
         }
 
     
