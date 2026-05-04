@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\danie\Cursos\Logica_Programacao\Projetos_C_GitHub\proj_cmake_modelo\main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\danie\Cursos\Logica_Programacao\Projetos_C_GitHub\proj_cmake_modelo\src\math.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\danie\Cursos\Logica_Programacao\Projetos_C_GitHub\proj_cmake_modelo\src\infox.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\danie\Cursos\Logica_Programacao\Projetos_C_GitHub\proj_cmake_modelo\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0E8D8B04-4D61-3DA9-8277-84AC68274278}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
