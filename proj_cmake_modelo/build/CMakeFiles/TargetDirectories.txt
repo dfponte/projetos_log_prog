@@ -1,3 +1,0 @@
-C:/Users/danie/Cursos/Logica_Programacao/Projetos_C_GitHub/proj_cmake_modelo/build/CMakeFiles/MeuExecutavel.dir
-C:/Users/danie/Cursos/Logica_Programacao/Projetos_C_GitHub/proj_cmake_modelo/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/danie/Cursos/Logica_Programacao/Projetos_C_GitHub/proj_cmake_modelo/build/CMakeFiles/ZERO_CHECK.dir
